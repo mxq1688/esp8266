@@ -1,121 +1,94 @@
-# MicroPython ESP8266 开发
+# MicroPython ESP8266 LED项目
 
-## 概述
-使用MicroPython进行ESP8266开发，使用Python语言，语法简洁，开发效率高。
+## 快速开始
 
-## 优势
-- 使用Python语言，语法简洁
-- 开发效率高，代码可读性强
-- 支持REPL交互式开发
-- 适合快速原型验证
-- 适合教育和学习
+### 1. 环境准备
+- ✅ ESP8266设备已连接 (`/dev/tty.usbserial-110`)
+- ✅ MicroPython固件已烧写
+- ✅ LED项目代码已准备就绪
 
-## 环境搭建
-
-### 1. 下载MicroPython固件
-- 官方固件: https://micropython.org/download/esp8266/
-- 选择最新的稳定版本
-
-### 2. 烧录固件
-使用esptool工具烧录：
-```bash
-pip install esptool
-esptool.py --port /dev/ttyUSB0 erase_flash
-esptool.py --port /dev/ttyUSB0 write_flash 0x00000 esp8266-firmware.bin
+### 2. 硬件连接
+```
+ESP8266 NodeMCU
+┌─────────────┐
+│             │
+│  GPIO2 (D4) ├───[220Ω]───[LED+]───[LED-]───GND
+│             │
+└─────────────┘
 ```
 
-### 3. 连接工具
-- Thonny IDE (推荐)
-- PuTTY (Windows)
-- Screen (macOS/Linux)
+### 3. 运行项目
+
+#### 方法1: 使用Thonny IDE (推荐)
+1. 下载Thonny IDE: https://thonny.org/
+2. 连接ESP8266: 选择MicroPython (ESP8266)，端口 `/dev/tty.usbserial-110`
+3. 上传文件到设备:
+   - `led_blink/src/config.py`
+   - `led_blink/src/led_control.py`
+   - `led_blink/src/simple_led.py`
+   - `led_blink/src/main.py`
+4. 运行: `exec(open('main.py').read())`
+
+#### 方法2: 命令行工具
+```bash
+# 安装ampy
+pip install adafruit-ampy
+
+# 上传文件
+ampy --port /dev/tty.usbserial-110 put led_blink/src/config.py
+ampy --port /dev/tty.usbserial-110 put led_blink/src/led_control.py
+ampy --port /dev/tty.usbserial-110 put led_blink/src/simple_led.py
+ampy --port /dev/tty.usbserial-110 put led_blink/src/main.py
+
+# 运行程序
+ampy --port /dev/tty.usbserial-110 run led_blink/src/main.py
+```
 
 ## 项目结构
 ```
 microPython/
 ├── README.md              # 说明文档
-├── 烧写脚本.sh            # 一键烧写脚本
-├── led_blink/            # LED闪烁项目
-│   ├── README.md         # 项目说明
-│   └── src/              # 源代码
-│       ├── main.py       # 主程序
-│       ├── led_control.py # LED控制模块
-│       ├── config.py     # 配置文件
-│       └── simple_led.py # 简单示例
-└── docs/                 # 文档资料
-    └── 固件烧写指南.md    # 详细烧写指南
+├── 操作指南.md            # 详细操作指南
+├── 烧写脚本.sh            # 固件烧写脚本
+├── esp8266-firmware.bin   # 固件文件
+└── led_blink/            # LED项目
+    ├── README.md         # 项目说明
+    └── src/              # 源代码
+        ├── main.py       # 主程序
+        ├── led_control.py # LED控制模块
+        ├── config.py     # 配置文件
+        └── simple_led.py # 简单示例
 ```
 
-## 快速开始
-
-### 1. 烧写固件
-```bash
-# 使用一键烧写脚本
-./烧写脚本.sh
-
-# 或手动烧写
-esptool --chip esp8266 --port /dev/ttyUSB0 erase-flash
-esptool --chip esp8266 --port /dev/ttyUSB0 --baud 460800 write-flash --flash-size=detect 0x00000 esp8266-firmware.bin
-```
-
-### 2. 运行LED项目
-```bash
-# 进入项目目录
-cd led_blink/
-
-# 上传代码到ESP8266
-# 使用Thonny IDE或其他工具上传src/目录下的文件
-
-# 运行程序
-exec(open('main.py').read())
-```
-
-## 常用模块
-- network: WiFi连接
-- socket: 网络通信
-- machine: 硬件控制
-- time: 时间相关
-- json: JSON处理
-- urequests: HTTP请求
-
-## 示例代码
-```python
-import network
-import time
-
-# WiFi配置
-ssid = 'your_wifi_ssid'
-password = 'your_wifi_password'
-
-def connect_wifi():
-    wlan = network.WLAN(network.STA_IF)
-    wlan.active(True)
-    
-    if not wlan.isconnected():
-        print('连接到WiFi...')
-        wlan.connect(ssid, password)
-        
-        while not wlan.isconnected():
-            time.sleep(1)
-            print('.', end='')
-    
-    print('WiFi已连接')
-    print('IP地址:', wlan.ifconfig()[0])
-
-# 连接WiFi
-connect_wifi()
-```
+## 程序功能
+- 基本开关控制
+- 状态切换
+- 单次闪烁
+- 连续闪烁
+- 预设模式 (正常/快速/慢速/双闪)
+- 双闪模式
+- 状态查询
+- 无限闪烁
 
 ## 常用命令
 ```python
-# 查看文件系统
-import os
-os.listdir()
+# 基本控制
+led.on()      # 点亮LED
+led.off()     # 熄灭LED
+led.toggle()  # 切换状态
 
-# 查看内存使用
-import gc
-gc.mem_free()
+# 闪烁控制
+led.blink_once(0.5)           # 闪烁一次
+led.blink(count=5)            # 闪烁5次
+led.blink_mode('fast', 3)     # 快速闪烁3次
+```
 
-# 重启设备
-import machine
-machine.reset()
-``` 
+## 故障排除
+- **LED不亮**: 检查硬件连接和LED极性
+- **连接失败**: 检查USB连接和设备端口
+- **程序错误**: 确认文件完整上传
+
+## 下一步
+1. 运行LED闪烁程序
+2. 修改闪烁参数
+3. 添加更多功能 
