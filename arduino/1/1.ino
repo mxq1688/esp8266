@@ -8,12 +8,11 @@ const int ledPin = 2;        // 板载LED引脚（D4）
 const int buttonPin = 4;     // 按钮引脚（D2，GPIO4）
 
 // 状态变量
-bool requestSent = false;    // 防止重复发送请求的标志
-bool lastButtonState = false; // 记录上一次按钮状态，用于检测边沿
+bool lastButtonState = false; // 记录上一次按钮状态，防止重复触发
 
 // WiFi配置
-const char* ssid = "HUAWEI";
-const char* password = "11111111";
+const char* ssid = "mem";
+const char* password = "66666666";
 
 // 服务器配置
 const char* host = "wenyan-avatar.mobvoi.com";
@@ -71,17 +70,11 @@ void loop() {
   // 检测按钮按下边沿（从高电平变为低电平）
   if (buttonPressed && !lastButtonState) {
     Serial.println("\n检测到按钮按下！");
-    
-    // 防止长按导致重复发送
-    if (!requestSent) {
-      Serial.println("开始发送请求...");
-      postHttpsRequest();  // 发送请求
-      blinkLED(3);         // LED闪烁3次
-      requestSent = true;  // 标记为已发送
-    }
+    Serial.println("开始发送请求...");
+    postHttpsRequest();  // 发送请求
+    blinkLED(3);         // LED闪烁3次
   } else if (!buttonPressed && lastButtonState) {
-    // 按钮释放时重置标志
-    requestSent = false;
+    // 按钮释放时
     Serial.println("按钮已释放");
   }
   
