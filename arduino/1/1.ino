@@ -11,8 +11,8 @@ const int buttonPin = 4;     // 按钮引脚（D2，GPIO4）
 bool lastButtonState = false; // 记录上一次按钮状态，防止重复触发
 
 // WiFi配置
-const char* ssid = "mem";
-const char* password = "66666666";
+const char* ssid = "mem2";
+const char* password = "md11180829";
 
 // 服务器配置
 const char* host = "wenyan-avatar.mobvoi.com";
