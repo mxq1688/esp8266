@@ -1,0 +1,1743 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2025-09-13T18:32:35.687265Z</date>
+  <millis>1757788355687</millis>
+  <nanos>265000</nanos>
+  <sequence>4</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>21</thread>
+  <message>LAFcom.apple.laf.AquaLookAndFeel</message>
+</record>
+<record>
+  <date>2025-09-13T18:32:35.690388Z</date>
+  <millis>1757788355690</millis>
+  <nanos>388000</nanos>
+  <sequence>5</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>21</thread>
+  <message>LAFcom.sun.java.swing.plaf.motif.MotifLookAndFeel</message>
+</record>
+<record>
+  <date>2025-09-13T18:32:35.690771Z</date>
+  <millis>1757788355690</millis>
+  <nanos>771000</nanos>
+  <sequence>6</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>21</thread>
+  <message>LAFjavax.swing.plaf.nimbus.NimbusLookAndFeel</message>
+</record>
+<record>
+  <date>2025-09-13T18:32:35.691156Z</date>
+  <millis>1757788355691</millis>
+  <nanos>156000</nanos>
+  <sequence>7</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>21</thread>
+  <message>LAFjavax.swing.plaf.metal.MetalLookAndFeel</message>
+</record>
+<record>
+  <date>2025-09-13T18:32:35.721110Z</date>
+  <millis>1757788355721</millis>
+  <nanos>110000</nanos>
+  <sequence>8</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>21</thread>
+  <message>Load saved settings: Firmware:NodeMCU</message>
+</record>
+<record>
+  <date>2025-09-13T18:32:35.723762Z</date>
+  <millis>1757788355723</millis>
+  <nanos>762000</nanos>
+  <sequence>9</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>21</thread>
+  <message>Snippets: loading...</message>
+</record>
+<record>
+  <date>2025-09-13T18:32:35.724580Z</date>
+  <millis>1757788355724</millis>
+  <nanos>580000</nanos>
+  <sequence>10</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>21</thread>
+  <message>Snippets load: Success.</message>
+</record>
+<record>
+  <date>2025-09-13T18:32:35.749941Z</date>
+  <millis>1757788355749</millis>
+  <nanos>941000</nanos>
+  <sequence>11</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>21</thread>
+  <message>Set new color theme: Success.</message>
+</record>
+<record>
+  <date>2025-09-13T18:32:35.751337Z</date>
+  <millis>1757788355751</millis>
+  <nanos>337000</nanos>
+  <sequence>12</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>21</thread>
+  <message>Load saved settings: DONE.</message>
+</record>
+<record>
+  <date>2025-09-13T18:32:35.751677Z</date>
+  <millis>1757788355751</millis>
+  <nanos>677000</nanos>
+  <sequence>13</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>21</thread>
+  <message>Snippets: loading...</message>
+</record>
+<record>
+  <date>2025-09-13T18:32:35.752149Z</date>
+  <millis>1757788355752</millis>
+  <nanos>149000</nanos>
+  <sequence>14</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>21</thread>
+  <message>Snippets load: Success.</message>
+</record>
+<record>
+  <date>2025-09-13T18:32:36.018726Z</date>
+  <millis>1757788356018</millis>
+  <nanos>726000</nanos>
+  <sequence>15</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>21</thread>
+  <message>Scan system...</message>
+</record>
+<record>
+  <date>2025-09-13T18:51:10.792196Z</date>
+  <millis>1757789470792</millis>
+  <nanos>196000</nanos>
+  <sequence>16</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>21</thread>
+  <message>Snippets: loading...</message>
+</record>
+<record>
+  <date>2025-09-13T18:51:10.793791Z</date>
+  <millis>1757789470793</millis>
+  <nanos>791000</nanos>
+  <sequence>17</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>21</thread>
+  <message>Snippets load: Success.</message>
+</record>
+<record>
+  <date>2025-09-13T18:51:10.840917Z</date>
+  <millis>1757789470840</millis>
+  <nanos>917000</nanos>
+  <sequence>18</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>21</thread>
+  <message>Snippets: loading...</message>
+</record>
+<record>
+  <date>2025-09-13T18:51:10.841892Z</date>
+  <millis>1757789470841</millis>
+  <nanos>892000</nanos>
+  <sequence>19</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>21</thread>
+  <message>Snippets load: Success.</message>
+</record>
+<record>
+  <date>2025-09-13T18:51:11.671971Z</date>
+  <millis>1757789471671</millis>
+  <nanos>971000</nanos>
+  <sequence>20</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>21</thread>
+  <message>Snippets: loading...</message>
+</record>
+<record>
+  <date>2025-09-13T18:51:11.682081Z</date>
+  <millis>1757789471682</millis>
+  <nanos>81000</nanos>
+  <sequence>21</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>21</thread>
+  <message>Snippets load: Success.</message>
+</record>
+<record>
+  <date>2025-09-13T18:51:11.683144Z</date>
+  <millis>1757789471683</millis>
+  <nanos>144000</nanos>
+  <sequence>22</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>21</thread>
+  <message>Snippets: loading...</message>
+</record>
+<record>
+  <date>2025-09-13T18:51:11.684198Z</date>
+  <millis>1757789471684</millis>
+  <nanos>198000</nanos>
+  <sequence>23</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>21</thread>
+  <message>Snippets load: Success.</message>
+</record>
+<record>
+  <date>2025-09-13T18:51:11.685154Z</date>
+  <millis>1757789471685</millis>
+  <nanos>154000</nanos>
+  <sequence>24</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>21</thread>
+  <message>Snippets: loading...</message>
+</record>
+<record>
+  <date>2025-09-13T18:51:11.686276Z</date>
+  <millis>1757789471686</millis>
+  <nanos>276000</nanos>
+  <sequence>25</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>21</thread>
+  <message>Snippets load: Success.</message>
+</record>
+<record>
+  <date>2025-09-13T18:51:11.687137Z</date>
+  <millis>1757789471687</millis>
+  <nanos>137000</nanos>
+  <sequence>26</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>21</thread>
+  <message>Snippets: loading...</message>
+</record>
+<record>
+  <date>2025-09-13T18:51:11.688626Z</date>
+  <millis>1757789471688</millis>
+  <nanos>626000</nanos>
+  <sequence>27</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>21</thread>
+  <message>Snippets load: Success.</message>
+</record>
+<record>
+  <date>2025-09-13T18:51:16.578402Z</date>
+  <millis>1757789476578</millis>
+  <nanos>402000</nanos>
+  <sequence>28</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>21</thread>
+  <message>Snippets: loading...</message>
+</record>
+<record>
+  <date>2025-09-13T18:51:16.579759Z</date>
+  <millis>1757789476579</millis>
+  <nanos>759000</nanos>
+  <sequence>29</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>21</thread>
+  <message>Snippets load: Success.</message>
+</record>
+<record>
+  <date>2025-09-13T18:51:16.781025Z</date>
+  <millis>1757789476781</millis>
+  <nanos>25000</nanos>
+  <sequence>30</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>21</thread>
+  <message>Snippets: loading...</message>
+</record>
+<record>
+  <date>2025-09-13T18:51:16.782127Z</date>
+  <millis>1757789476782</millis>
+  <nanos>127000</nanos>
+  <sequence>31</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>21</thread>
+  <message>Snippets load: Success.</message>
+</record>
+<record>
+  <date>2025-09-13T18:51:16.836913Z</date>
+  <millis>1757789476836</millis>
+  <nanos>913000</nanos>
+  <sequence>32</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>21</thread>
+  <message>Snippets: loading...</message>
+</record>
+<record>
+  <date>2025-09-13T18:51:16.838158Z</date>
+  <millis>1757789476838</millis>
+  <nanos>158000</nanos>
+  <sequence>33</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>21</thread>
+  <message>Snippets load: Success.</message>
+</record>
+<record>
+  <date>2025-09-13T18:51:17.466590Z</date>
+  <millis>1757789477466</millis>
+  <nanos>590000</nanos>
+  <sequence>34</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>21</thread>
+  <message>Snippets: loading...</message>
+</record>
+<record>
+  <date>2025-09-13T18:51:17.467800Z</date>
+  <millis>1757789477467</millis>
+  <nanos>800000</nanos>
+  <sequence>35</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>21</thread>
+  <message>Snippets load: Success.</message>
+</record>
+<record>
+  <date>2025-09-13T18:51:17.506817Z</date>
+  <millis>1757789477506</millis>
+  <nanos>817000</nanos>
+  <sequence>36</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>21</thread>
+  <message>Snippets: loading...</message>
+</record>
+<record>
+  <date>2025-09-13T18:51:17.508086Z</date>
+  <millis>1757789477508</millis>
+  <nanos>86000</nanos>
+  <sequence>37</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>21</thread>
+  <message>Snippets load: Success.</message>
+</record>
+<record>
+  <date>2025-09-13T18:51:18.088313Z</date>
+  <millis>1757789478088</millis>
+  <nanos>313000</nanos>
+  <sequence>38</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>21</thread>
+  <message>Snippets: loading...</message>
+</record>
+<record>
+  <date>2025-09-13T18:51:18.089425Z</date>
+  <millis>1757789478089</millis>
+  <nanos>425000</nanos>
+  <sequence>39</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>21</thread>
+  <message>Snippets load: Success.</message>
+</record>
+<record>
+  <date>2025-09-13T18:51:18.169343Z</date>
+  <millis>1757789478169</millis>
+  <nanos>343000</nanos>
+  <sequence>40</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>21</thread>
+  <message>Snippets: loading...</message>
+</record>
+<record>
+  <date>2025-09-13T18:51:18.170360Z</date>
+  <millis>1757789478170</millis>
+  <nanos>360000</nanos>
+  <sequence>41</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>21</thread>
+  <message>Snippets load: Success.</message>
+</record>
+<record>
+  <date>2025-09-13T18:51:23.734686Z</date>
+  <millis>1757789483734</millis>
+  <nanos>686000</nanos>
+  <sequence>42</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>21</thread>
+  <message>Snippets: loading...</message>
+</record>
+<record>
+  <date>2025-09-13T18:51:23.735714Z</date>
+  <millis>1757789483735</millis>
+  <nanos>714000</nanos>
+  <sequence>43</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>21</thread>
+  <message>Snippets load: Success.</message>
+</record>
+<record>
+  <date>2025-09-13T18:51:23.991832Z</date>
+  <millis>1757789483991</millis>
+  <nanos>832000</nanos>
+  <sequence>44</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>21</thread>
+  <message>Snippets: loading...</message>
+</record>
+<record>
+  <date>2025-09-13T18:51:23.992962Z</date>
+  <millis>1757789483992</millis>
+  <nanos>962000</nanos>
+  <sequence>45</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>21</thread>
+  <message>Snippets load: Success.</message>
+</record>
+<record>
+  <date>2025-09-13T18:51:26.219533Z</date>
+  <millis>1757789486219</millis>
+  <nanos>533000</nanos>
+  <sequence>46</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>21</thread>
+  <message>Snippets: loading...</message>
+</record>
+<record>
+  <date>2025-09-13T18:51:26.220926Z</date>
+  <millis>1757789486220</millis>
+  <nanos>926000</nanos>
+  <sequence>47</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>21</thread>
+  <message>Snippets load: Success.</message>
+</record>
+<record>
+  <date>2025-09-13T18:51:26.469968Z</date>
+  <millis>1757789486469</millis>
+  <nanos>968000</nanos>
+  <sequence>48</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>21</thread>
+  <message>Snippets: loading...</message>
+</record>
+<record>
+  <date>2025-09-13T18:51:26.471444Z</date>
+  <millis>1757789486471</millis>
+  <nanos>444000</nanos>
+  <sequence>49</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>21</thread>
+  <message>Snippets load: Success.</message>
+</record>
+<record>
+  <date>2025-09-13T18:51:26.988771Z</date>
+  <millis>1757789486988</millis>
+  <nanos>771000</nanos>
+  <sequence>50</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>21</thread>
+  <message>Snippets: loading...</message>
+</record>
+<record>
+  <date>2025-09-13T18:51:26.990318Z</date>
+  <millis>1757789486990</millis>
+  <nanos>318000</nanos>
+  <sequence>51</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>21</thread>
+  <message>Snippets load: Success.</message>
+</record>
+<record>
+  <date>2025-09-13T18:51:26.991484Z</date>
+  <millis>1757789486991</millis>
+  <nanos>484000</nanos>
+  <sequence>52</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>21</thread>
+  <message>Snippets: loading...</message>
+</record>
+<record>
+  <date>2025-09-13T18:51:26.992292Z</date>
+  <millis>1757789486992</millis>
+  <nanos>292000</nanos>
+  <sequence>53</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>21</thread>
+  <message>Snippets load: Success.</message>
+</record>
+<record>
+  <date>2025-09-13T18:51:26.993717Z</date>
+  <millis>1757789486993</millis>
+  <nanos>717000</nanos>
+  <sequence>54</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>21</thread>
+  <message>Snippets: loading...</message>
+</record>
+<record>
+  <date>2025-09-13T18:51:26.994934Z</date>
+  <millis>1757789486994</millis>
+  <nanos>934000</nanos>
+  <sequence>55</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>21</thread>
+  <message>Snippets load: Success.</message>
+</record>
+<record>
+  <date>2025-09-13T18:51:26.996196Z</date>
+  <millis>1757789486996</millis>
+  <nanos>196000</nanos>
+  <sequence>56</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>21</thread>
+  <message>Snippets: loading...</message>
+</record>
+<record>
+  <date>2025-09-13T18:51:26.996964Z</date>
+  <millis>1757789486996</millis>
+  <nanos>964000</nanos>
+  <sequence>57</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>21</thread>
+  <message>Snippets load: Success.</message>
+</record>
+<record>
+  <date>2025-09-13T18:51:27.762032Z</date>
+  <millis>1757789487762</millis>
+  <nanos>32000</nanos>
+  <sequence>58</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>21</thread>
+  <message>Snippets: loading...</message>
+</record>
+<record>
+  <date>2025-09-13T18:51:27.763364Z</date>
+  <millis>1757789487763</millis>
+  <nanos>364000</nanos>
+  <sequence>59</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>21</thread>
+  <message>Snippets load: Success.</message>
+</record>
+<record>
+  <date>2025-09-13T18:51:29.220633Z</date>
+  <millis>1757789489220</millis>
+  <nanos>633000</nanos>
+  <sequence>60</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>21</thread>
+  <message>Snippets: loading...</message>
+</record>
+<record>
+  <date>2025-09-13T18:51:29.221715Z</date>
+  <millis>1757789489221</millis>
+  <nanos>715000</nanos>
+  <sequence>61</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>21</thread>
+  <message>Snippets load: Success.</message>
+</record>
+<record>
+  <date>2025-09-13T18:51:29.222368Z</date>
+  <millis>1757789489222</millis>
+  <nanos>368000</nanos>
+  <sequence>62</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>21</thread>
+  <message>Snippets: loading...</message>
+</record>
+<record>
+  <date>2025-09-13T18:51:29.223054Z</date>
+  <millis>1757789489223</millis>
+  <nanos>54000</nanos>
+  <sequence>63</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>21</thread>
+  <message>Snippets load: Success.</message>
+</record>
+<record>
+  <date>2025-09-13T18:51:29.223716Z</date>
+  <millis>1757789489223</millis>
+  <nanos>716000</nanos>
+  <sequence>64</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>21</thread>
+  <message>Snippets: loading...</message>
+</record>
+<record>
+  <date>2025-09-13T18:51:29.224409Z</date>
+  <millis>1757789489224</millis>
+  <nanos>409000</nanos>
+  <sequence>65</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>21</thread>
+  <message>Snippets load: Success.</message>
+</record>
+<record>
+  <date>2025-09-13T18:51:29.224955Z</date>
+  <millis>1757789489224</millis>
+  <nanos>955000</nanos>
+  <sequence>66</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>21</thread>
+  <message>Snippets: loading...</message>
+</record>
+<record>
+  <date>2025-09-13T18:51:29.225566Z</date>
+  <millis>1757789489225</millis>
+  <nanos>566000</nanos>
+  <sequence>67</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>21</thread>
+  <message>Snippets load: Success.</message>
+</record>
+<record>
+  <date>2025-09-13T18:51:29.488991Z</date>
+  <millis>1757789489488</millis>
+  <nanos>991000</nanos>
+  <sequence>68</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>21</thread>
+  <message>Snippets: loading...</message>
+</record>
+<record>
+  <date>2025-09-13T18:51:29.489991Z</date>
+  <millis>1757789489489</millis>
+  <nanos>991000</nanos>
+  <sequence>69</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>21</thread>
+  <message>Snippets load: Success.</message>
+</record>
+<record>
+  <date>2025-09-13T18:51:30.492961Z</date>
+  <millis>1757789490492</millis>
+  <nanos>961000</nanos>
+  <sequence>70</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>21</thread>
+  <message>Snippets: loading...</message>
+</record>
+<record>
+  <date>2025-09-13T18:51:30.494529Z</date>
+  <millis>1757789490494</millis>
+  <nanos>529000</nanos>
+  <sequence>71</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>21</thread>
+  <message>Snippets load: Success.</message>
+</record>
+<record>
+  <date>2025-09-13T18:51:30.495828Z</date>
+  <millis>1757789490495</millis>
+  <nanos>828000</nanos>
+  <sequence>72</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>21</thread>
+  <message>Snippets: loading...</message>
+</record>
+<record>
+  <date>2025-09-13T18:51:30.496800Z</date>
+  <millis>1757789490496</millis>
+  <nanos>800000</nanos>
+  <sequence>73</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>21</thread>
+  <message>Snippets load: Success.</message>
+</record>
+<record>
+  <date>2025-09-13T18:51:30.497814Z</date>
+  <millis>1757789490497</millis>
+  <nanos>814000</nanos>
+  <sequence>74</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>21</thread>
+  <message>Snippets: loading...</message>
+</record>
+<record>
+  <date>2025-09-13T18:51:30.498983Z</date>
+  <millis>1757789490498</millis>
+  <nanos>983000</nanos>
+  <sequence>75</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>21</thread>
+  <message>Snippets load: Success.</message>
+</record>
+<record>
+  <date>2025-09-13T18:51:30.500283Z</date>
+  <millis>1757789490500</millis>
+  <nanos>283000</nanos>
+  <sequence>76</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>21</thread>
+  <message>Snippets: loading...</message>
+</record>
+<record>
+  <date>2025-09-13T18:51:30.501365Z</date>
+  <millis>1757789490501</millis>
+  <nanos>365000</nanos>
+  <sequence>77</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>21</thread>
+  <message>Snippets load: Success.</message>
+</record>
+<record>
+  <date>2025-09-13T18:51:34.908684Z</date>
+  <millis>1757789494908</millis>
+  <nanos>684000</nanos>
+  <sequence>78</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>21</thread>
+  <message>Snippets: loading...</message>
+</record>
+<record>
+  <date>2025-09-13T18:51:34.910820Z</date>
+  <millis>1757789494910</millis>
+  <nanos>820000</nanos>
+  <sequence>79</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>21</thread>
+  <message>Snippets load: Success.</message>
+</record>
+<record>
+  <date>2025-09-13T18:51:34.912174Z</date>
+  <millis>1757789494912</millis>
+  <nanos>174000</nanos>
+  <sequence>80</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>21</thread>
+  <message>Snippets: loading...</message>
+</record>
+<record>
+  <date>2025-09-13T18:51:34.913078Z</date>
+  <millis>1757789494913</millis>
+  <nanos>78000</nanos>
+  <sequence>81</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>21</thread>
+  <message>Snippets load: Success.</message>
+</record>
+<record>
+  <date>2025-09-13T18:51:35.119931Z</date>
+  <millis>1757789495119</millis>
+  <nanos>931000</nanos>
+  <sequence>82</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>21</thread>
+  <message>Snippets: loading...</message>
+</record>
+<record>
+  <date>2025-09-13T18:51:35.120791Z</date>
+  <millis>1757789495120</millis>
+  <nanos>791000</nanos>
+  <sequence>83</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>21</thread>
+  <message>Snippets load: Success.</message>
+</record>
+<record>
+  <date>2025-09-13T18:51:35.121651Z</date>
+  <millis>1757789495121</millis>
+  <nanos>651000</nanos>
+  <sequence>84</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>21</thread>
+  <message>Snippets: loading...</message>
+</record>
+<record>
+  <date>2025-09-13T18:51:35.122310Z</date>
+  <millis>1757789495122</millis>
+  <nanos>310000</nanos>
+  <sequence>85</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>21</thread>
+  <message>Snippets load: Success.</message>
+</record>
+<record>
+  <date>2025-09-13T18:51:37.176163Z</date>
+  <millis>1757789497176</millis>
+  <nanos>163000</nanos>
+  <sequence>86</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>21</thread>
+  <message>Snippets: loading...</message>
+</record>
+<record>
+  <date>2025-09-13T18:51:37.177080Z</date>
+  <millis>1757789497177</millis>
+  <nanos>80000</nanos>
+  <sequence>87</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>21</thread>
+  <message>Snippets load: Success.</message>
+</record>
+<record>
+  <date>2025-09-13T18:51:37.426871Z</date>
+  <millis>1757789497426</millis>
+  <nanos>871000</nanos>
+  <sequence>88</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>21</thread>
+  <message>Snippets: loading...</message>
+</record>
+<record>
+  <date>2025-09-13T18:51:37.427774Z</date>
+  <millis>1757789497427</millis>
+  <nanos>774000</nanos>
+  <sequence>89</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>21</thread>
+  <message>Snippets load: Success.</message>
+</record>
+<record>
+  <date>2025-09-13T18:51:38.206427Z</date>
+  <millis>1757789498206</millis>
+  <nanos>427000</nanos>
+  <sequence>90</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>21</thread>
+  <message>Snippets: loading...</message>
+</record>
+<record>
+  <date>2025-09-13T18:51:38.207786Z</date>
+  <millis>1757789498207</millis>
+  <nanos>786000</nanos>
+  <sequence>91</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>21</thread>
+  <message>Snippets load: Success.</message>
+</record>
+<record>
+  <date>2025-09-13T18:51:38.208799Z</date>
+  <millis>1757789498208</millis>
+  <nanos>799000</nanos>
+  <sequence>92</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>21</thread>
+  <message>Snippets: loading...</message>
+</record>
+<record>
+  <date>2025-09-13T18:51:38.209684Z</date>
+  <millis>1757789498209</millis>
+  <nanos>684000</nanos>
+  <sequence>93</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>21</thread>
+  <message>Snippets load: Success.</message>
+</record>
+<record>
+  <date>2025-09-13T18:51:38.406220Z</date>
+  <millis>1757789498406</millis>
+  <nanos>220000</nanos>
+  <sequence>94</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>21</thread>
+  <message>Snippets: loading...</message>
+</record>
+<record>
+  <date>2025-09-13T18:51:38.408273Z</date>
+  <millis>1757789498408</millis>
+  <nanos>273000</nanos>
+  <sequence>95</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>21</thread>
+  <message>Snippets load: Success.</message>
+</record>
+<record>
+  <date>2025-09-13T18:51:38.409739Z</date>
+  <millis>1757789498409</millis>
+  <nanos>739000</nanos>
+  <sequence>96</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>21</thread>
+  <message>Snippets: loading...</message>
+</record>
+<record>
+  <date>2025-09-13T18:51:38.410658Z</date>
+  <millis>1757789498410</millis>
+  <nanos>658000</nanos>
+  <sequence>97</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>21</thread>
+  <message>Snippets load: Success.</message>
+</record>
+<record>
+  <date>2025-09-13T18:51:38.822887Z</date>
+  <millis>1757789498822</millis>
+  <nanos>887000</nanos>
+  <sequence>98</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>21</thread>
+  <message>Snippets: loading...</message>
+</record>
+<record>
+  <date>2025-09-13T18:51:38.823741Z</date>
+  <millis>1757789498823</millis>
+  <nanos>741000</nanos>
+  <sequence>99</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>21</thread>
+  <message>Snippets load: Success.</message>
+</record>
+<record>
+  <date>2025-09-13T18:51:39.822791Z</date>
+  <millis>1757789499822</millis>
+  <nanos>791000</nanos>
+  <sequence>100</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>21</thread>
+  <message>Snippets: loading...</message>
+</record>
+<record>
+  <date>2025-09-13T18:51:39.824238Z</date>
+  <millis>1757789499824</millis>
+  <nanos>238000</nanos>
+  <sequence>101</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>21</thread>
+  <message>Snippets load: Success.</message>
+</record>
+<record>
+  <date>2025-09-13T18:51:39.825085Z</date>
+  <millis>1757789499825</millis>
+  <nanos>85000</nanos>
+  <sequence>102</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>21</thread>
+  <message>Snippets: loading...</message>
+</record>
+<record>
+  <date>2025-09-13T18:51:39.825930Z</date>
+  <millis>1757789499825</millis>
+  <nanos>930000</nanos>
+  <sequence>103</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>21</thread>
+  <message>Snippets load: Success.</message>
+</record>
+<record>
+  <date>2025-09-13T18:51:39.826615Z</date>
+  <millis>1757789499826</millis>
+  <nanos>615000</nanos>
+  <sequence>104</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>21</thread>
+  <message>Snippets: loading...</message>
+</record>
+<record>
+  <date>2025-09-13T18:51:39.827529Z</date>
+  <millis>1757789499827</millis>
+  <nanos>529000</nanos>
+  <sequence>105</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>21</thread>
+  <message>Snippets load: Success.</message>
+</record>
+<record>
+  <date>2025-09-13T18:51:39.828581Z</date>
+  <millis>1757789499828</millis>
+  <nanos>581000</nanos>
+  <sequence>106</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>21</thread>
+  <message>Snippets: loading...</message>
+</record>
+<record>
+  <date>2025-09-13T18:51:39.829671Z</date>
+  <millis>1757789499829</millis>
+  <nanos>671000</nanos>
+  <sequence>107</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>21</thread>
+  <message>Snippets load: Success.</message>
+</record>
+<record>
+  <date>2025-09-13T18:51:40.365281Z</date>
+  <millis>1757789500365</millis>
+  <nanos>281000</nanos>
+  <sequence>108</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>21</thread>
+  <message>Snippets: loading...</message>
+</record>
+<record>
+  <date>2025-09-13T18:51:40.366245Z</date>
+  <millis>1757789500366</millis>
+  <nanos>245000</nanos>
+  <sequence>109</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>21</thread>
+  <message>Snippets load: Success.</message>
+</record>
+<record>
+  <date>2025-09-13T18:51:41.023977Z</date>
+  <millis>1757789501023</millis>
+  <nanos>977000</nanos>
+  <sequence>110</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>21</thread>
+  <message>Snippets: loading...</message>
+</record>
+<record>
+  <date>2025-09-13T18:51:41.025973Z</date>
+  <millis>1757789501025</millis>
+  <nanos>973000</nanos>
+  <sequence>111</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>21</thread>
+  <message>Snippets load: Success.</message>
+</record>
+<record>
+  <date>2025-09-13T18:51:41.027358Z</date>
+  <millis>1757789501027</millis>
+  <nanos>358000</nanos>
+  <sequence>112</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>21</thread>
+  <message>Snippets: loading...</message>
+</record>
+<record>
+  <date>2025-09-13T18:51:41.028261Z</date>
+  <millis>1757789501028</millis>
+  <nanos>261000</nanos>
+  <sequence>113</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>21</thread>
+  <message>Snippets load: Success.</message>
+</record>
+<record>
+  <date>2025-09-13T18:51:41.029147Z</date>
+  <millis>1757789501029</millis>
+  <nanos>147000</nanos>
+  <sequence>114</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>21</thread>
+  <message>Snippets: loading...</message>
+</record>
+<record>
+  <date>2025-09-13T18:51:41.030608Z</date>
+  <millis>1757789501030</millis>
+  <nanos>608000</nanos>
+  <sequence>115</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>21</thread>
+  <message>Snippets load: Success.</message>
+</record>
+<record>
+  <date>2025-09-13T18:51:41.031982Z</date>
+  <millis>1757789501031</millis>
+  <nanos>982000</nanos>
+  <sequence>116</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>21</thread>
+  <message>Snippets: loading...</message>
+</record>
+<record>
+  <date>2025-09-13T18:51:41.032948Z</date>
+  <millis>1757789501032</millis>
+  <nanos>948000</nanos>
+  <sequence>117</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>21</thread>
+  <message>Snippets load: Success.</message>
+</record>
+<record>
+  <date>2025-09-13T18:51:41.262769Z</date>
+  <millis>1757789501262</millis>
+  <nanos>769000</nanos>
+  <sequence>118</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>21</thread>
+  <message>Snippets: loading...</message>
+</record>
+<record>
+  <date>2025-09-13T18:51:41.264183Z</date>
+  <millis>1757789501264</millis>
+  <nanos>183000</nanos>
+  <sequence>119</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>21</thread>
+  <message>Snippets load: Success.</message>
+</record>
+<record>
+  <date>2025-09-13T18:51:42.503876Z</date>
+  <millis>1757789502503</millis>
+  <nanos>876000</nanos>
+  <sequence>120</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>21</thread>
+  <message>Snippets: loading...</message>
+</record>
+<record>
+  <date>2025-09-13T18:51:42.504952Z</date>
+  <millis>1757789502504</millis>
+  <nanos>952000</nanos>
+  <sequence>121</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>21</thread>
+  <message>Snippets load: Success.</message>
+</record>
+<record>
+  <date>2025-09-13T18:51:42.505507Z</date>
+  <millis>1757789502505</millis>
+  <nanos>507000</nanos>
+  <sequence>122</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>21</thread>
+  <message>Snippets: loading...</message>
+</record>
+<record>
+  <date>2025-09-13T18:51:42.506113Z</date>
+  <millis>1757789502506</millis>
+  <nanos>113000</nanos>
+  <sequence>123</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>21</thread>
+  <message>Snippets load: Success.</message>
+</record>
+<record>
+  <date>2025-09-13T18:51:42.506535Z</date>
+  <millis>1757789502506</millis>
+  <nanos>535000</nanos>
+  <sequence>124</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>21</thread>
+  <message>Snippets: loading...</message>
+</record>
+<record>
+  <date>2025-09-13T18:51:42.507100Z</date>
+  <millis>1757789502507</millis>
+  <nanos>100000</nanos>
+  <sequence>125</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>21</thread>
+  <message>Snippets load: Success.</message>
+</record>
+<record>
+  <date>2025-09-13T18:51:42.507531Z</date>
+  <millis>1757789502507</millis>
+  <nanos>531000</nanos>
+  <sequence>126</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>21</thread>
+  <message>Snippets: loading...</message>
+</record>
+<record>
+  <date>2025-09-13T18:51:42.508141Z</date>
+  <millis>1757789502508</millis>
+  <nanos>141000</nanos>
+  <sequence>127</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>21</thread>
+  <message>Snippets load: Success.</message>
+</record>
+<record>
+  <date>2025-09-13T18:51:43.457478Z</date>
+  <millis>1757789503457</millis>
+  <nanos>478000</nanos>
+  <sequence>128</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>21</thread>
+  <message>Snippets: loading...</message>
+</record>
+<record>
+  <date>2025-09-13T18:51:43.458504Z</date>
+  <millis>1757789503458</millis>
+  <nanos>504000</nanos>
+  <sequence>129</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>21</thread>
+  <message>Snippets load: Success.</message>
+</record>
+<record>
+  <date>2025-09-13T18:51:44.903453Z</date>
+  <millis>1757789504903</millis>
+  <nanos>453000</nanos>
+  <sequence>130</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>21</thread>
+  <message>Snippets: loading...</message>
+</record>
+<record>
+  <date>2025-09-13T18:51:44.904229Z</date>
+  <millis>1757789504904</millis>
+  <nanos>229000</nanos>
+  <sequence>131</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>21</thread>
+  <message>Snippets load: Success.</message>
+</record>
+<record>
+  <date>2025-09-13T18:51:44.904830Z</date>
+  <millis>1757789504904</millis>
+  <nanos>830000</nanos>
+  <sequence>132</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>21</thread>
+  <message>Snippets: loading...</message>
+</record>
+<record>
+  <date>2025-09-13T18:51:44.905275Z</date>
+  <millis>1757789504905</millis>
+  <nanos>275000</nanos>
+  <sequence>133</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>21</thread>
+  <message>Snippets load: Success.</message>
+</record>
+<record>
+  <date>2025-09-13T18:51:44.905718Z</date>
+  <millis>1757789504905</millis>
+  <nanos>718000</nanos>
+  <sequence>134</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>21</thread>
+  <message>Snippets: loading...</message>
+</record>
+<record>
+  <date>2025-09-13T18:51:44.906142Z</date>
+  <millis>1757789504906</millis>
+  <nanos>142000</nanos>
+  <sequence>135</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>21</thread>
+  <message>Snippets load: Success.</message>
+</record>
+<record>
+  <date>2025-09-13T18:51:44.906581Z</date>
+  <millis>1757789504906</millis>
+  <nanos>581000</nanos>
+  <sequence>136</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>21</thread>
+  <message>Snippets: loading...</message>
+</record>
+<record>
+  <date>2025-09-13T18:51:44.907Z</date>
+  <millis>1757789504907</millis>
+  <sequence>137</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>21</thread>
+  <message>Snippets load: Success.</message>
+</record>
+<record>
+  <date>2025-09-13T18:51:45.331379Z</date>
+  <millis>1757789505331</millis>
+  <nanos>379000</nanos>
+  <sequence>138</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>21</thread>
+  <message>Snippets: loading...</message>
+</record>
+<record>
+  <date>2025-09-13T18:51:45.332300Z</date>
+  <millis>1757789505332</millis>
+  <nanos>300000</nanos>
+  <sequence>139</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>21</thread>
+  <message>Snippets load: Success.</message>
+</record>
+<record>
+  <date>2025-09-13T18:55:08.407335Z</date>
+  <millis>1757789708407</millis>
+  <nanos>335000</nanos>
+  <sequence>140</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>21</thread>
+  <message>Snippets: loading...</message>
+</record>
+<record>
+  <date>2025-09-13T18:55:08.410231Z</date>
+  <millis>1757789708410</millis>
+  <nanos>231000</nanos>
+  <sequence>141</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>21</thread>
+  <message>Snippets load: Success.</message>
+</record>
+<record>
+  <date>2025-09-13T18:55:08.430960Z</date>
+  <millis>1757789708430</millis>
+  <nanos>960000</nanos>
+  <sequence>142</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>21</thread>
+  <message>Snippets: loading...</message>
+</record>
+<record>
+  <date>2025-09-13T18:55:08.431795Z</date>
+  <millis>1757789708431</millis>
+  <nanos>795000</nanos>
+  <sequence>143</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>21</thread>
+  <message>Snippets load: Success.</message>
+</record>
+<record>
+  <date>2025-09-13T18:55:09.552703Z</date>
+  <millis>1757789709552</millis>
+  <nanos>703000</nanos>
+  <sequence>144</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>21</thread>
+  <message>Snippets: loading...</message>
+</record>
+<record>
+  <date>2025-09-13T18:55:09.553478Z</date>
+  <millis>1757789709553</millis>
+  <nanos>478000</nanos>
+  <sequence>145</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>21</thread>
+  <message>Snippets load: Success.</message>
+</record>
+<record>
+  <date>2025-09-13T18:55:09.650068Z</date>
+  <millis>1757789709650</millis>
+  <nanos>68000</nanos>
+  <sequence>146</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>21</thread>
+  <message>Snippets: loading...</message>
+</record>
+<record>
+  <date>2025-09-13T18:55:09.650988Z</date>
+  <millis>1757789709650</millis>
+  <nanos>988000</nanos>
+  <sequence>147</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>21</thread>
+  <message>Snippets load: Success.</message>
+</record>
+<record>
+  <date>2025-09-13T18:55:36.498673Z</date>
+  <millis>1757789736498</millis>
+  <nanos>673000</nanos>
+  <sequence>148</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>21</thread>
+  <message>DataSender: Serial port not open, operation FAILED.</message>
+</record>
+</log>
