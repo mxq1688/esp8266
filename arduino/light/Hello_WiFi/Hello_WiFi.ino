@@ -51,8 +51,8 @@
 #define RELAY_PIN 0  // GPIO0 控制继电器
 
 char auth[] = "Your Device Secret Key";
-char ssid[] = "";
-char pswd[] = "";
+char ssid[] = "Mobvoi-Device";
+char pswd[] = "mobvoidevice";
 
 // 新建组件对象
 BlinkerButton Button1("btn-abc");
