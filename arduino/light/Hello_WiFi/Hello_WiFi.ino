@@ -47,12 +47,13 @@
 
 #include <Blinker.h>
 
-// ESP-01 继电器模块控制引脚
+// ESP-01S 继电器模块控制引脚
+// 注意：ESP-01S继电器模块是低电平触发！
 #define RELAY_PIN 0  // GPIO0 控制继电器
 
-char auth[] = "Your Device Secret Key";
-char ssid[] = "Mobvoi-Device";
-char pswd[] = "mobvoidevice";
+char auth[] = "9c600fa47f48";
+char ssid[] = "mem2";
+char pswd[] = "md11180829";
 
 // 新建组件对象
 BlinkerButton Button1("btn-abc");
@@ -66,9 +67,12 @@ void button1_callback(const String & state)
 {
     BLINKER_LOG("get button state: ", state);
     
-    // 切换继电器状态
+    // 切换继电器状态（低电平触发：LOW=开，HIGH=关）
     relayState = !relayState;
-    digitalWrite(RELAY_PIN, relayState ? HIGH : LOW);
+    digitalWrite(RELAY_PIN, relayState ? LOW : HIGH);
+    
+    // 反馈按钮状态给App（重要！）
+    Button1.print(relayState ? "on" : "off");
     
     BLINKER_LOG("Relay is: ", relayState ? "ON" : "OFF");
 }
@@ -88,9 +92,9 @@ void setup()
     BLINKER_DEBUG.stream(Serial);
     BLINKER_DEBUG.debugAll();
     
-    // 初始化继电器引脚
+    // 初始化继电器引脚（低电平触发，HIGH=关闭）
     pinMode(RELAY_PIN, OUTPUT);
-    digitalWrite(RELAY_PIN, LOW);  // 初始状态：继电器关闭
+    digitalWrite(RELAY_PIN, HIGH);  // 初始状态：继电器关闭
     
     // 初始化blinker
     Blinker.begin(auth, ssid, pswd);
