@@ -52,8 +52,8 @@
 #define RELAY_PIN 0  // GPIO0 控制继电器
 
 char auth[] = "9c600fa47f48";
-char ssid[] = "mem2";
-char pswd[] = "md11180829";
+char ssid[] = "JC";
+char pswd[] = "12349876";
 
 // 新建组件对象
 BlinkerButton Button1("btn-abc");
